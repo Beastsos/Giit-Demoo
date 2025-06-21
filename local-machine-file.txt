@@ -1,0 +1,2 @@
+ 
+This is the file which is created in the local machine but in the folder which is copied(cloned) from the GitHub.
